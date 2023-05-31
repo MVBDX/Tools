@@ -3,11 +3,9 @@ package com.tosan.utils;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashSet;
-import java.util.Scanner;
 import java.util.Set;
 
 import static com.tosan.utils.NationalIDGenerator.generateNationalId;
-import static org.junit.jupiter.api.Assertions.*;
 
 class NationalIDGeneratorTest {
     @Test
